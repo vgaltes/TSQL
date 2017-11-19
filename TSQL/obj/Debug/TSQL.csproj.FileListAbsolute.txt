@@ -1,0 +1,9 @@
+D:\Repositories\TSQL\TSQL\bin\Debug\TSQL.dll
+D:\Repositories\TSQL\TSQL\bin\Debug\TSQL.pdb
+D:\Repositories\TSQL\TSQL\bin\Debug\Dapper.dll
+D:\Repositories\TSQL\TSQL\bin\Debug\nunit.framework.dll
+D:\Repositories\TSQL\TSQL\bin\Debug\Dapper.xml
+D:\Repositories\TSQL\TSQL\bin\Debug\nunit.framework.xml
+D:\Repositories\TSQL\TSQL\obj\Debug\TSQL.csprojResolveAssemblyReference.cache
+D:\Repositories\TSQL\TSQL\obj\Debug\TSQL.dll
+D:\Repositories\TSQL\TSQL\obj\Debug\TSQL.pdb
